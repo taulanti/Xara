@@ -1,21 +1,22 @@
 # Xara
 
-### Xara Back-end role
-## Test 1
+#### Xara Back-end role
+##### Test 1
 
-# Given the following data points, provide a JavaScript synchronous solution producing the related data tree.
-# Both of them are below.
+##### Given the following data points, provide a JavaScript synchronous solution producing the related data tree.
+##### Both of them are below.
 
-# Required features
+#### Required features
 
-# The provided solution should mainly focus on efficiency.
+##### The provided solution should mainly focus on efficiency.
 
-## Constraints
+#### Constraints
 
-# The resulting data tree must be identical to the one provided.
+##### The resulting data tree must be identical to the one provided.
 
-Data points
+##### Data points
 
+```
 [
         {
                 "start" : 1526915703627,
@@ -254,9 +255,9 @@ Data points
                 "tier" : "2467-359"
         }
 ]
-
-Data tree
-
+```
+### Data tree
+```
 [
     {
         "start": 1526915703274,
@@ -580,4 +581,4 @@ Data tree
         ]
     }
 ]
-
+```
