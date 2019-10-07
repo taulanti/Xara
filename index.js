@@ -1,4 +1,4 @@
-// I started a solution using Trie data structure but couldn't finish it.
+
 
 const categories = require('./data.json');
 
